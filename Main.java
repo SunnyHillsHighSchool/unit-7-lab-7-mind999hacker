@@ -24,6 +24,6 @@ public class Main
 		out.println("\n\n");		
 				
 		//add more test cases
-	
+
 	}
 }
